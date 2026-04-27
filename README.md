@@ -100,7 +100,8 @@ MAIN DASHBOARD:https://github.com/kachiyahiren/Student-Performance-Behavior-Dash
 
 BEHAVIOR DASHBOARD:https://github.com/kachiyahiren/Student-Performance-Behavior-Dashboard/blob/main/Behavior%20Dashboard.png
 
-STUDENT PROFILE DASHBOARD:
+STUDENT PROFILE DASHBOARD:https://github.com/kachiyahiren/Student-Performance-Behavior-Dashboard/blob/main/Student%20Profile%20Dashboard.png
+
 ---
 
 ## 🧮 Key DAX Measures
