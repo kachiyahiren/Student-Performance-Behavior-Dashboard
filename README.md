@@ -98,7 +98,7 @@ It helps educators and administrators monitor student progress, identify perform
 ## SHREENSHORT
 MAIN DASHBOARD:https://github.com/kachiyahiren/Student-Performance-Behavior-Dashboard/blob/main/Main%20Dashboard.png
 
-BEHAVIOR DASHBOARD:
+BEHAVIOR DASHBOARD:https://github.com/kachiyahiren/Student-Performance-Behavior-Dashboard/blob/main/Behavior%20Dashboard.png
 
 STUDENT PROFILE DASHBOARD:
 ---
