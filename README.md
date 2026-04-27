@@ -95,12 +95,13 @@ It helps educators and administrators monitor student progress, identify perform
   - Date
 
 
-## SHREENSHORT
-MAIN DASHBOARD:https://github.com/kachiyahiren/Student-Performance-Behavior-Dashboard/blob/main/Main%20Dashboard.png
+## SHREENSHORT:
+![Main Dashboard](https://github.com/kachiyahiren/Student-Performance-Behavior-Dashboard/blob/main/Main%20Dashboard.png)
 
-BEHAVIOR DASHBOARD:https://github.com/kachiyahiren/Student-Performance-Behavior-Dashboard/blob/main/Behavior%20Dashboard.png
+![Behavior Dashboard](https://github.com/kachiyahiren/Student-Performance-Behavior-Dashboard/blob/main/Behavior%20Dashboard.png)
 
-STUDENT PROFILE DASHBOARD:https://github.com/kachiyahiren/Student-Performance-Behavior-Dashboard/blob/main/Student%20Profile%20Dashboard.png
+![Student Profile Dashboard](https://github.com/kachiyahiren/Student-Performance-Behavior-Dashboard/blob/main/Student%20Profile%20Dashboard.png
+)
 
 ---
 
