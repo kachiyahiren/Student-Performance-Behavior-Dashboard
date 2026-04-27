@@ -95,7 +95,7 @@ It helps educators and administrators monitor student progress, identify perform
   - Date
 
 
-## SHREENSHORT:
+## 📷 Dashboard Preview
 ![Main Dashboard](https://github.com/kachiyahiren/Student-Performance-Behavior-Dashboard/blob/main/Main%20Dashboard.png)
 
 ![Behavior Dashboard](https://github.com/kachiyahiren/Student-Performance-Behavior-Dashboard/blob/main/Behavior%20Dashboard.png)
