@@ -94,6 +94,13 @@ It helps educators and administrators monitor student progress, identify perform
   - Behavior
   - Date
 
+
+## SHREENSHORT
+MAIN DASHBOARD:https://github.com/kachiyahiren/Student-Performance-Behavior-Dashboard/blob/main/Main%20Dashboard.png
+
+BEHAVIOR DASHBOARD:
+
+STUDENT PROFILE DASHBOARD:
 ---
 
 ## 🧮 Key DAX Measures
